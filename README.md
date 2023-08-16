@@ -4,9 +4,9 @@ bg remover is a python program meant to be ran inside of an editor, use any edit
 
 use the paths to the folders you just made and save them to the variables 'named_directory_in' and 'named_directory_out' in the code. See below.
 
-## [Video Tutorial!](https://youtu.be/5d5JTcTyNkA)
+## [Video Tutorial!](https://youtu.be/f338UE4B8T4)
 
-Watch this video to see the code in action, or if you have issues running it, or if you want to learn how it was written. This is a coding tutorial video. [Video Link](https://youtu.be/5d5JTcTyNkA)
+Watch this video to see the code in action, or if you have issues running it, or if you want to learn how it was written. This is a coding tutorial video. [Video Link](https://youtu.be/f338UE4B8T4)
 
 ## Installation
 
