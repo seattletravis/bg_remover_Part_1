@@ -4,6 +4,12 @@ bg remover is a python program meant to be ran inside of an editor, use any edit
 
 use the paths to the folders you just made and save them to the variables 'named_directory_in' and 'named_directory_out' in the code. See below.
 
+We will be developing Uncha into a Full Feature Windows Application with GUI duing the course of this video series.
+
+Uncha is a Windows Application for removing all image backgrounds from a specified folder and saving those transparent image files to another file folder determined by the user. This is an opensource project and all the source code is here to use. GUI is written using tkinter and backgrounds are removed using rembg.
+
+Run bg_remover_with_GUI, then select both folders using the GUI navigation.
+
 ## [Video Tutorial!](https://youtu.be/f338UE4B8T4)
 
 Watch this video to see the code in action, or if you have issues running it, or if you want to learn how it was written. This is a coding tutorial video. [Video Link](https://youtu.be/f338UE4B8T4)
